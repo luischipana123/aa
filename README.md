@@ -95,13 +95,13 @@ header{
 #col2{
 
 	background:#CCB18E;
-	width:370px;
+	width:350px;
 	float:left;
 }
 #col3{
 
 	background:#AB8A6c;
-	width:250px;
+	width:290px;
 	float:left;
 }
 
