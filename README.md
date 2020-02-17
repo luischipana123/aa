@@ -88,20 +88,20 @@ header{
 #col1{
 
 	background:#AB8A6c;
-	width:400px;
+	width:300px;
 	float:left;
 	
 }
 #col2{
 
 	background:#CCB18E;
-	width:400px;
+	width:300px;
 	float:left;
 }
 #col3{
 
 	background:#AB8A6c;
-	width:400px;
+	width:300px;
 	float:left;
 }
 
