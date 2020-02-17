@@ -139,39 +139,39 @@ p{
 <section>
 	<aside id="col1" >
 		<CENTER>
-		<font size=3>
+		
 		<STRONG>
 		Placa
 		<p id="lista_placas" > 
 		</p>
 		</STRONG>	
-		</font>
+		
 		</CENTER>
 	</aside>
 	
 	<article id="col2">
 		<CENTER>
-		<font size=3>
+		
 		<STRONG>
 		Propietario
 		<p id="lista_placas1"> 
 		</p>
 		</STRONG>	
-		</font>
+		
 		</CENTER>
 	</article>
 	
 	<aside id="col3">
 		
 		<CENTER>
-		<font size=3>
+		
 		<STRONG>
 		
 		Acceso
 		<p id="lista_placas2"> 
 		</p>
 		</STRONG>	
-		</font>
+		
 		</CENTER>
 	</aside>
 
