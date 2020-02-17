@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <script languaje="javascript">
   var getin = prompt("Pon la contraseña.")
@@ -77,7 +77,7 @@ p, h1 ,h2, h3{
 }
 
 body{
-	width:1000px;
+	width:1200px;
 	margin:0 auto;
 	font-family: Verdana, Geneva, sans-serif;
 }
@@ -88,20 +88,20 @@ header{
 #col1{
 
 	background:#AB8A6c;
-	width:300px;
+	width:350px;
 	float:left;
 	
 }
 #col2{
 
 	background:#CCB18E;
-	width:300px;
+	width:350px;
 	float:left;
 }
 #col3{
 
 	background:#AB8A6c;
-	width:300px;
+	width:350px;
 	float:left;
 }
 
