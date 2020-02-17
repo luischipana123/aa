@@ -132,7 +132,7 @@ p{
 </head>
 <body>
 <header>
-<h1>PAGINA WEB - SISTEMA DE SEGURIDAD</h1>
+<h1>PAGINA WEB - SISTEMA DE SEGURIDAD1</h1>
 <h2>TESIS 2</h2>
 <h3>CHIPANA VILA</h3>
 </header>
