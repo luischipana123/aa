@@ -77,7 +77,7 @@ p, h1 ,h2, h3{
 }
 
 body{
-	width:100px;
+	width:1000px;
 	margin:0 auto;
 	font-family: Verdana, Geneva, sans-serif;
 }
