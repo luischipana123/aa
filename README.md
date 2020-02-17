@@ -95,7 +95,7 @@ header{
 #col2{
 
 	background:#CCB18E;
-	width:350px;
+	width:370px;
 	float:left;
 }
 #col3{
