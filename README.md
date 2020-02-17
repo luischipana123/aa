@@ -82,26 +82,26 @@ body{
 	font-family: Verdana, Geneva, sans-serif;
 }
 header{
-	height:100px;
+	height:1000px;
 	background:#E5CBA2;
 }
 #col1{
 
 	background:#AB8A6c;
-	width:320px;
+	width:333px;
 	float:left;
 	
 }
 #col2{
 
 	background:#CCB18E;
-	width:320px;
+	width:333px;
 	float:left;
 }
 #col3{
 
 	background:#AB8A6c;
-	width:320px;
+	width:333px;
 	float:left;
 }
 
