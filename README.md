@@ -101,7 +101,7 @@ header{
 #col3{
 
 	background:#AB8A6c;
-	width:300px;
+	width:250px;
 	float:left;
 }
 
