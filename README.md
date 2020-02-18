@@ -122,7 +122,7 @@ p{
 }
 
 br{
-	padding-top:80em;
+	padding-top:1em;
 
 }
 
