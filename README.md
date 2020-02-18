@@ -115,9 +115,9 @@ h3{
 	text-align:center;
 }
 p{
-	padding-left:7em;
+	padding-left:1em;
 	padding-right:1em;
-	padding-top:1em;
+	padding-top:8em;
 	line-height:2em;
 }
 
