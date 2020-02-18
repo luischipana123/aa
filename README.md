@@ -46,7 +46,7 @@
 		// childData will be the actual contents of the child
 		var childData = childSnapshot.val();
 		 console.log(childData['valor']);
-		$("#lista_placas").append(childData['valor'] +  "        " + childData['time']+  " ->"  );
+		$("#lista_placas").append(childData['valor'] +  " " + " " + " " +childData['time']+  "  -> "  );
 	$("#lista_placas").append("<br>");
 			$("#lista_placas1").append(childData['Propietario']+  " ->" + childData['cargo']+  " ->"  );
 	$("#lista_placas1").append("<br>");
