@@ -117,8 +117,8 @@ h3{
 p{
 	padding-left:1em;
 	padding-right:1em;
-	padding-top:8em;
-	line-height:16em;
+	padding-top:1em;
+	line-height:5em;
 }
 
 br{
