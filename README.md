@@ -118,7 +118,7 @@ p{
 	padding-left:1em;
 	padding-right:1em;
 	padding-top:8em;
-	line-height:2em;
+	line-height:16em;
 }
 
 br{
