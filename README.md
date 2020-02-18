@@ -100,7 +100,7 @@ header{
 }
 
 h1{
-	color:#0000C6;
+	color:#000066;
 	font-size:2.2em;
 	text-align:center;
 }
@@ -120,6 +120,8 @@ p{
 	padding-top:1em;
 	font-size:2.2em;
 	line-height:3em;
+	color:#000066;
+	font-size:2.2em;
 }
 
 br{
