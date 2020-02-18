@@ -100,8 +100,6 @@ header{
 }
 
 h1{
-	color:#000066;
-	font-size:2.2em;
 	text-align:center;
 }
 h2{
@@ -120,8 +118,6 @@ p{
 	padding-top:1em;
 	font-size:2.2em;
 	line-height:3em;
-	color:#000066;
-	font-size:2.2em;
 }
 
 br{
