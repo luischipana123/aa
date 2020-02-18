@@ -122,8 +122,7 @@ p{
 }
 
 br{
-
-	padding-top:8em;
+	padding-top:80em;
 
 }
 
