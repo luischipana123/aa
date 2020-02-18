@@ -115,10 +115,10 @@ h3{
 	text-align:center;
 }
 p{
-	padding-left:6em;
-	padding-right:6em;
+	padding-left:7em;
+	padding-right:1em;
 	padding-top:1em;
-	line-height:3em;
+	line-height:2em;
 }
 
 
