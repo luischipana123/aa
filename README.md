@@ -121,6 +121,13 @@ p{
 	line-height:2em;
 }
 
+br{
+
+	padding-top:8em;
+
+}
+
+
 
 </style>
 </head>
