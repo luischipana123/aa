@@ -1,14 +1,6 @@
 
 <html>
 <script languaje="javascript">
-  var getin = prompt("Pon el usuario.")
-  if (getin!="12345")
-  var getin1 = prompt("Pon la contraseña.")
-  if (getin1!="12345")
-  {location.href='https://luischipana123.github.io/aa/'}
-  else
-  {alert('Contraseña correcta, acepta para ver la entrada')}
-</script>
 
 <head>
 <meta charset="UTF-8">
