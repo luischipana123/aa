@@ -116,7 +116,7 @@ p{
 	padding-left:1em;
 	padding-right:1em;
 	padding-top:1em;
-	font-size:1.5em;
+	font-size:1em;
 	line-height:3em;
 	color:#000080;
 }
